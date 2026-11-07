@@ -11,6 +11,7 @@ There are currently two container images, one with the standard [Nix][nix] imple
 - [BusyBox][busybox]
 - [Cachix][cachix]
 - [curl][curl]
+- [Docker CLI][docker]
 - [Nix][nix] or [Lix][lix] with [flakes][flakes] enabled
 - [Git][git] with [LFS][lfs]
 - [JQ][jq]
@@ -22,6 +23,7 @@ There are currently two container images, one with the standard [Nix][nix] imple
 [busybox]: https://busybox.net/
 [cachix]: https://cachix.org
 [curl]: https://curl.se
+[docker]: https://docs.docker.com/reference/cli/docker/
 [nix]: https://nixos.org
 [lix]: https://lix.systems
 [flakes]: https://wiki.nixos.org/wiki/Flakes

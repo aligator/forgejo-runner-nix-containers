@@ -27,6 +27,7 @@
             pkgs.cacert
             pkgs.cachix
             pkgs.curl
+            pkgs.docker-client
             pkgs.forgejo-cli
             pkgs.gitMinimal
             pkgs.git-lfs
